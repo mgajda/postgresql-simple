@@ -114,6 +114,7 @@ library
     OverloadedStrings
     TypeOperators
     ViewPatterns
+    Strict
 
   ghc-options:        -Wall -fno-warn-name-shadowing
 
